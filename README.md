@@ -1,8 +1,5 @@
 # hello-world
 
-What even is this? Is this coding?
+Just trying out the features
 
-I see lines numbered from 1 to infinity
-
-
-Hmmmm this is line 8. 
+I had a mango today.
